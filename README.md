@@ -1,5 +1,5 @@
 # ContentAnalytics_AdminTraining
-This repository contains training material developed in the summer of 2014, using IBM Content Analytics with Enterprise Seach v3.0 (ICA) while Kevin McCreery was working with North Carolina State University's Center for Innovation Management Studies (CIMS).
+This repository contains training material developed by Kevin McCreery in the summer of 2014, using IBM Content Analytics with Enterprise Seach v3.0 (ICA) while Kevin McCreery was working with North Carolina State University's Center for Innovation Management Studies (CIMS).
 ICA Administration is the configuration of features for IBM's ICA software package. This material also covers the management of software processes and the hardware CIMS uses to run ICA.
 
 ##Videos

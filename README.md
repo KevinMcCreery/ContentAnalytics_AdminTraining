@@ -4,6 +4,7 @@ Training material developed in the summer of 2014, using IBM Content Analytics v
 
 ICA Administration is the configuration of features for IBM's Content Analytics with Enterprise Search software package. This material also covers the management of software processes and the hardware CIMS uses to run ICA.
 
+##Videos
 * 01_Introduction: This introductory video includes general advice, prerequisite knowledge, role descriptions, and disclaimers.
 * 02_Create_Collection: This video contains information regarding the configuration options available when creating a collection. This first step influences options that are available in later videos.
 * 03_Web_Crawler: This video covers the process of creating a web crawler and the available configuration options. The focus is on publically available web content, per CIMS activities.
@@ -14,6 +15,22 @@ ICA Administration is the configuration of features for IBM's Content Analytics 
 * 08_Import: This video covers a step-by-step process for importing a .csv file.
 * 09_Export: This video covers step-by-step instructions for exporting data in .csv files. An overview of the available export options and potential use cases are also provided.
 * 10_Web_Content_Strategies: This video aggregates features used to address difficulties with publically available web document collections. References are made to topics covered in other videos.
+
+##IBM Reference Manuals
+* IBM Content Analytics 3.0_Administration Guide
+* IBM Content Analytics 3.0_Analyzing Content Guide
+* IBM ICA Redbook for ICA v3.0
+* ICA v3.0 Application Programming Guide
+* ICA v3.0 Installation Guide
+* ICA v3.0 Message Reference
+* ICA v3.0 Text Analysis Integration
+ 
+##Supplemental Material from The Apache Software Foundation
+* UIMA - Asynchronous Scaleout
+* UIMA - Overview and Setup
+* UIMA - References
+* UIMA - Tools Guide
+* UIMA - Tutorials and Users Guides
 
 
 
